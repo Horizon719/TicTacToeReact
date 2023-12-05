@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(122, 122, 122);
+}
+
+article{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

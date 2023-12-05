@@ -1,0 +1,16 @@
+.elem{
+    min-width: 100px;
+    aspect-ratio: 1/1;
+    text-align: center;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #00120B;
+    color: #31E981;
+    border: 1px solid #31E981;
+}
+
+.elem:hover{
+    background-color: #00311e;
+}
